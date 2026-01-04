@@ -1,12 +1,14 @@
 {
-  "manifest_version": 1,
   "name": "Hoja de Personaje",
   "version": "1.0.0",
-  "actions": [
+  "manifest_version": 2,
+  "entry": "index.html",
+  "panels": [
     {
-      "type": "panel",
+      "id": "sheet",
       "name": "Hoja de Personaje",
-      "entry": "index.html"
+      "icon": "icon.svg",
+      "url": "index.html"
     }
   ]
 }
