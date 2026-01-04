@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "name": "Hoja de Personaje",
+  "version": "1.0.0",
+  "actions": [
+    {
+      "type": "panel",
+      "name": "Hoja de Personaje",
+      "entry": "index.html"
+    }
+  ]
+}
